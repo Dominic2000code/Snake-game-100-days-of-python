@@ -53,5 +53,6 @@ The game requires the Turtle module, which is included in the Python Standard Li
 - Eat the food to increase your score.
 - Avoid colliding with the walls or the snake's body.
 - The game ends when the snake collides with the walls or itself.
+- Press "q" to quit game.
 
 ---
